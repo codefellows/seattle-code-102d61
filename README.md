@@ -9,8 +9,7 @@
 - A working computer, meeting the school-specified requirements.
 - Familiarity with basic algebra concepts.
 - Code 101 or equivalent exposure to basic HTML and CSS.
-
-Recommended: Be able to type at least 30 words per minute.
+- Be able to type at least 30 words per minute.
 
 > Students with previous relevant or equivalent experience can test out of this requirement in their application.
 
