@@ -1,0 +1,67 @@
+/* EXTERNAL STYLESHEET */
+
+/* Nav needs to move to top right */
+
+h1 {
+  float: left;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+/* Links horizontal instead of vertical */
+
+nav li {
+  display: inline-block;
+  background-color: lightgrey;
+  padding: 20px;
+}
+
+/* Remove bullets from nav list items */
+
+li {
+  list-style:square;
+}
+
+/* 3 sections at bottom horizontal vs vertical */
+
+/* Center photo and paragraph */
+
+/* Spacing around elements & between */
+
+/* * {
+  border: 1px solid black;
+} */
+
+h2 {
+  padding: 10px;
+}
+
+section {
+  display: inline-block;
+}
+
+/* Select elements by their class name */
+.lower-sections {
+  width: 30%;
+}
+
+/* Select an element by its ID */
+#top-section {
+  text-align: center;
+}
+
+#top-section p {
+  margin-left: 200px;
+  margin-right: 200px;
+  border: 5px dotted orange;
+}
+
+
+
+
+
+
+
+
+
+
