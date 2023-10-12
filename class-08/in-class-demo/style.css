@@ -1,0 +1,108 @@
+/* EXTERNAL STYLESHEET */
+
+body {
+  background-color: #C2D8B9;
+}
+
+header {
+  background-color: #738290;
+  height: 150px;
+}
+
+h1 {
+  float: left;
+  margin-left: 100px;
+  margin-right: 0px;
+  background-color: #A1B5D8;
+  padding: 20px;
+  border: 10px groove black;
+}
+
+nav {
+  width: 50%;
+  margin-left: 500px;
+}
+
+nav ul {
+  margin-left: 0px;
+  padding: 0px;
+}
+
+nav li {
+  display: inline-block;
+  background-color: lightgrey;
+  padding: 10px;
+  margin: 50px;
+  margin-top: 50px;
+}
+
+nav a {
+  background-color: lightgray;
+  padding: 20px;
+}
+
+main {
+  margin-top: 50px;
+}
+
+li {
+  list-style:none;
+}
+
+h2 {
+  padding: 10px;
+}
+
+section {
+  display: inline-block;
+}
+
+/* Select elements by their class name with . */
+.lower-sections {
+  width: 20%;
+  margin-left: 150px;
+  border: 5px dashed;
+  background-color: #FFFCF7;
+  text-align: center;
+}
+
+/* Select an element by its ID with # */
+#top-section {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+#top-section p {
+  margin-left: 200px;
+  margin-right: 200px;
+  border: 5px solid black;
+}
+
+footer {
+  background-color: #738290;
+  height: 100px;
+}
+
+footer p {
+  text-align: center;
+  font-size:x-large;
+  padding-top: 40px;
+}
+
+#silly-pictures {
+  height: auto;
+  width: 100%;
+  text-align: center;
+}
+
+.silly-pic {
+  width: 350px;
+  margin-left: 30px;
+  margin-top: 50px;
+}
+
+
+
+
+
+
